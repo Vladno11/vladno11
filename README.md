@@ -12,9 +12,9 @@ I'm eager to collaborate with a company where I can contribute to meaningful pro
 ## 📩 **Let's Connect:**  
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vujcic.vladan04@gmail.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vujcic11)
-- [![Contact Badge](https://img.shields.io/badge/Contact-Phone-blue)](tel:+381637408853)
-  -  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/381637408853)
-  -  [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/vladno11)
+- **Contact:** +381637408853
+  - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/381637408853)
+  - [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/vladno11)
 
 
 
